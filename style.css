@@ -28,12 +28,8 @@ body{
     font-size: 3rem;
     text-align: center;
     border: none;
-<<<<<<< HEAD
-    color: rgb(29, 112, 85);
-=======
     color: rgba(41, 112, 88, 0.655);
     font-family: calibri;
->>>>>>> a634a7316121c1a7a1a1575b8ba019411e8cb22a
 }
 .input::placeholder{
     font-weight: 100;
