@@ -7,7 +7,7 @@ body{
     align-items: center;
     text-align: center;
     height: 100vh;
-    font-family: fantasy;
+    font-family: calibri;
 }
 
 .form{
@@ -17,6 +17,7 @@ body{
     border-radius: 30px;
     margin: 2rem;
     font-size: 2rem;
+    font-family: calibri;
 }
 
 .input{
@@ -27,7 +28,12 @@ body{
     font-size: 3rem;
     text-align: center;
     border: none;
+<<<<<<< HEAD
     color: rgb(29, 112, 85);
+=======
+    color: rgba(41, 112, 88, 0.655);
+    font-family: calibri;
+>>>>>>> a634a7316121c1a7a1a1575b8ba019411e8cb22a
 }
 .input::placeholder{
     font-weight: 100;
@@ -44,6 +50,7 @@ body{
     font-size: 1.2rem;
     border: none;
     box-shadow: 0.1rem 0.3rem 0.8rem rgba(0, 0, 0, 0.4);
+    font-family: calibri;
 }
 .btn:hover{
     filter: brightness(0.9);
