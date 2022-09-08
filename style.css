@@ -28,12 +28,13 @@ body{
     font-size: 3rem;
     text-align: center;
     border: none;
-    color: rgba(41, 112, 88, 0.655);
+    color: rgb(41, 112, 88);
     font-family: calibri;
 }
 .input::placeholder{
     font-weight: 100;
     font-size: 2rem;
+    color: rgba(41, 112, 88,0.5);
 }
 .input:focus{
     outline: none;
