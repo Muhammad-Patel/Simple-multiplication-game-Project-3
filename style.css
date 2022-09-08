@@ -27,7 +27,7 @@ body{
     font-size: 3rem;
     text-align: center;
     border: none;
-    color: rgba(41, 112, 88, 0.655);
+    color: rgb(29, 112, 85);
 }
 .input::placeholder{
     font-weight: 100;
